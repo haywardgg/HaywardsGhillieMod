@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{6DE8B14D7BF58E5B}HaywardsGhillieMod/data/haywards-ghillie-mod.edds"
+ Author "desktop-bnajkqd"
+ ChangeDate -296899949
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "haywards-ghillie-mod.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
